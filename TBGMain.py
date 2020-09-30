@@ -9,6 +9,7 @@ MC = Player(name,world)
 playing = True
 while playing == True:
     command = input("what would you like to do? ")
+    movement_commands()
 
 #hello georgeyshore
 
