@@ -10,5 +10,7 @@ playing = True
 while playing == True:
     command = input("what would you like to do? ")
 
+#hello georgeyshore
+
 
 
