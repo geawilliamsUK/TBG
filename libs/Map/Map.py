@@ -1,4 +1,4 @@
-from characters.Goblin import Goblin
+from libs.characters import Goblin
 
 class Map():
     def __init__(self):
